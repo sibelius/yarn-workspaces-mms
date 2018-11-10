@@ -1,0 +1,19 @@
+{
+  "name": "yarn-workspaces-mms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sibelius Seraphini <sibeliusseraphini@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.30"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/eslint"
+    ]
+  },
+  "private": true
+}
