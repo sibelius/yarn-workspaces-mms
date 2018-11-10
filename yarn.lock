@@ -706,7 +706,7 @@ mkdirp@^0.5.1, mkdirp@~0.5.0:
 mongodb-memory-server@2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/mongodb-memory-server/-/mongodb-memory-server-2.7.0.tgz#663345e8fe38e3b76c703fcc94f691c192fcbd66"
-  integrity sha512-T9zBEN3/y7/s4F83B2jAlLHtjjSEp50GQ2J0b7QMbAwM/G7Rkxzdf3cCfzOChDBfI0lQto09EOTdDam6mm0REQ==
+  integrity sha1-1wP9dGpfqvzZLJkVmHMxBMrwG70=
   dependencies:
     "@babel/runtime" "^7.1.2"
     debug "^4.1.0"
@@ -721,7 +721,7 @@ mongodb-memory-server@2.7.0:
     tmp "^0.0.33"
     uuid "^3.2.1"
   prebuiltVariants:
-    mongodb-memory-server-v2.7.0-darwin-x64-64 b94d1c14431e640a6a80fbc31225a595bc5c907c
+    mongodb-memory-server-v2.7.0-darwin-x64-64 d703fd746a5faafcd92c991598733104caf01bbd
 
 ms@^2.1.1:
   version "2.1.1"
