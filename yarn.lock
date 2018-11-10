@@ -721,7 +721,7 @@ mongodb-memory-server@2.7.0:
     tmp "^0.0.33"
     uuid "^3.2.1"
   prebuiltVariants:
-    mongodb-memory-server-v2.7.0-darwin-x64-64 "04d1cac3516f7c92deabc6ef8dced2239a80a7f7"
+    mongodb-memory-server-v2.7.0-darwin-x64-64 b94d1c14431e640a6a80fbc31225a595bc5c907c
 
 ms@^2.1.1:
   version "2.1.1"
